@@ -1,0 +1,15 @@
+.section{
+    padding: 9rm 0 7rm;
+    text-align: center;
+}
+.section-heading, .section-description{
+    margin-bottom: 1.2rem;
+}
+.Showcase-img{
+    position: relative;
+    max-width: 70%;
+    margin: 3rem auto -12rem;
+}
+.section-a{
+    
+}
